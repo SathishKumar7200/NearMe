@@ -139,27 +139,27 @@ clg.html
 
 map
 
-![alt text](<../pro1/app1/static/Screenshot 2025-11-17 003115.png>)
+![alt text](<Screenshot 2025-11-17 003115.png>)
 
 
 sittanavasal
 
-![alt text](../pro1/app1/static/Sittanavasal.jpg)
+![alt text](Sittanavasal.jpg)
 
 
 aranmanai
 
-![alt text](../pro1/app1/static/aranmanai.jpg)
+![alt text](aranmanai.jpg)
 
 
 thirumayam
 
-[text](../pro1/app1/static/thirumayam.html)
+[text](thirumayam.html)
 
 
 clg
 
-![alt text](../pro1/app1/static/clg.jpg)
+![alt text](clg.jpg)
 
 
 
