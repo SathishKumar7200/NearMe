@@ -139,28 +139,28 @@ clg.html
 
 map
 
-![alt text](<Screenshot 2025-11-17 003115.png>)
+![alt text](<Screenshot 2025-11-17 004743.png>)
 
 
 sittanavasal
 
-![alt text](Sittanavasal.jpg)
+![alt text](<Screenshot 2025-11-17 010248.png>)
 
 
 aranmanai
 
-![alt text](aranmanai.jpg)
+![alt text](<Screenshot 2025-11-17 005333.png>)
 
 
 thirumayam
 
-[text](thirumayam.html)
+![alt text](<Screenshot 2025-11-17 012419.png>)
 
 
 clg
 
-![alt text](clg.jpg)
 
+![alt text](<Screenshot 2025-11-17 004808.png>)
 
 
 
